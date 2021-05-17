@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt text](https://i.pinimg.com/564x/ce/39/60/ce39603afbbe5ee7262282b36f3495b4.jpg)
 
