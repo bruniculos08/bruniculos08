@@ -1,4 +1,4 @@
-### Hi there
+Hi there 👋
 I am Bruno Rafael dos Santos. 
 
 ## Important links:
