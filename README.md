@@ -1,5 +1,4 @@
-Hi there 👋
-I am Bruno Rafael dos Santos. 
+Hi there 👋, i am Bruno Rafael dos Santos. 
 
 ## Important links:
 
