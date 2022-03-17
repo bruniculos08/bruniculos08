@@ -1,4 +1,4 @@
-## **Hi there, i am Bruno Rafael dos Santos.** 
+## **Welcome, i am Bruno Rafael dos Santos.** 
 
 ### Important links:
 
@@ -13,6 +13,7 @@
   <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="100">
 </p>
 <!--
+## **Hi there, i am Bruno Rafael dos Santos.** 
 
 #### Readme:
 - [Artigo de exemplos](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) 
