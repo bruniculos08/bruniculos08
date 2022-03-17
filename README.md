@@ -7,8 +7,9 @@ I am Bruno Rafael dos Santos.
 
 - **Twitter:** 	[@bruno_rafasan](https://twitter.com/bruno_rafasan)
 
-![](https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif)
-
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="700">
+</p>
 <!--
 
 #### Readme:
