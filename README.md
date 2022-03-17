@@ -2,7 +2,7 @@ Hi there, i am Bruno Rafael dos Santos.
 
 ## Important links:
 
-- **Markdown files tutorial:** ["Como fazer um readme.md bonitão"](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) 
+- **Markdown files tutorial:** ["como fazer um readme.md bonitão"](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) 
 
 - **My Twitter:** 	[@bruno_rafasan](https://twitter.com/bruno_rafasan)
 
