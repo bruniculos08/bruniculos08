@@ -17,7 +17,9 @@ I am Bruno Rafael dos Santos.
 #### Twitter:
 
 - [@bruno_rafasan](https://twitter.com/bruno_rafasan) 
-- ![](https://img.icons8.com/clouds/2x/twitter.png)
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="700">
+</p>
 
 <!--
 **bruniculos08/bruniculos08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
