@@ -6,6 +6,8 @@
 
 - [**My Twitter** ](https://twitter.com/bruno_rafasan)
 
+- [**My Instagram** ](https://www.instagram.com/bruno_rafasan/)
+
 - [**My Curriculum** ](https://github.com/bruniculos08/Outros/blob/ea2d565aa93afec9764f2770cdd326f3e6513295/CS_IT_SWE_Resume_Template.pdf
 )
 
