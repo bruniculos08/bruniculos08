@@ -2,13 +2,13 @@
 
 ## Important links:
 
-- [**Markdown files tutorial**](https://raullesteves.medium.com/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) 
+- [My Link's note](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md) 
 
-- [**My Twitter** ](https://twitter.com/bruno_rafasan)
+- [My Twitter](https://twitter.com/bruno_rafasan)
 
-- [**My Instagram** ](https://www.instagram.com/bruno_rafasan/)
+- [My Instagram](https://www.instagram.com/bruno_rafasan/)
 
-- [**My Curriculum** ](https://github.com/bruniculos08/Outros/blob/ea2d565aa93afec9764f2770cdd326f3e6513295/CS_IT_SWE_Resume_Template.pdf
+- [My Curriculum](https://github.com/bruniculos08/Outros/blob/ea2d565aa93afec9764f2770cdd326f3e6513295/CS_IT_SWE_Resume_Template.pdf
 )
 
 <p align="center">
