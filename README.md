@@ -1,3 +1,8 @@
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://tumblrcanripmypornfrommycolddeadhandshome.files.wordpress.com/2017/03/tumblr_oj0yx96uJB1vnh162o1_1280.gif" width="100">
+</p>
+<!--
+
 ### **Welcome, i am Bruno Rafael dos Santos.** 
 
 ## Important links:
