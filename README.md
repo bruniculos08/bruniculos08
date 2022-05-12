@@ -3,9 +3,9 @@
 </p>
 
 
-### **Welcome, i am Bruno Rafael dos Santos.** 
+## **Welcome, i am Bruno Rafael dos Santos.** 
 
-## Important links:
+### Important links:
 
 - [My Link's note](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md) 
 
