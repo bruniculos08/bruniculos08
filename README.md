@@ -1,5 +1,5 @@
-<p align="center">
-  <img class="gatsby-resp-image-image" src="https://tumblrcanripmypornfrommycolddeadhandshome.files.wordpress.com/2017/03/tumblr_oj0yx96uJB1vnh162o1_1280.gif" width="1000">
+<p align="left">
+  <img class="gatsby-resp-image-image" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" width="850">
 </p>
 
 
@@ -15,7 +15,7 @@
 
 - [My Curriculum](https://github.com/bruniculos08/Outros/blob/ea2d565aa93afec9764f2770cdd326f3e6513295/CS_IT_SWE_Resume_Template.pdf
 )
-
+<!--
 <p align="center">
   <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="100">
 </p>
