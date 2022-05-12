@@ -1,5 +1,5 @@
 <p align="left">
-  <img class="gatsby-resp-image-image" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" width="700">
+  <img class="https://pa1.narvii.com/6926/751218b1f578406157031145dd9f0cac7a2999ecr1-1119-993_hq.gif" width="700">
 </p>
 
 
@@ -19,6 +19,11 @@
 <p align="center">
   <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="100">
 </p>
+
+<p align="left">
+  <img class="gatsby-resp-image-image" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" width="700">
+</p>
+
 <!--
 ## **Hi there, i am Bruno Rafael dos Santos.** 
 
