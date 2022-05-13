@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="100">
 </p>
 
