@@ -1,7 +1,7 @@
-<p align="left">
-  <img class="https://pa1.narvii.com/5794/ccb8a592b2cbec8a43d534b223f1525b2b4fe536_hq.gif" width="700">
-</p>
 
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="100">
+</p>
 
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
 
@@ -15,14 +15,34 @@
 
 - [My Curriculum](https://github.com/bruniculos08/Outros/blob/ea2d565aa93afec9764f2770cdd326f3e6513295/CS_IT_SWE_Resume_Template.pdf
 )
+
+
+
+
+
 <!--
+
+<p align="left">
+  <img class="gatsby-resp-image-image" src="https://1b-f.s3.eu-west-1.amazonaws.com/a/175146-E22F2BDB-F534-45FC-A6F8-E1AB5233844D-0-1619119410.gif" height="300" width="900">
+</p>
+
 <p align="center">
   <img class="gatsby-resp-image-image" src="https://i.pinimg.com/originals/cf/e9/3a/cfe93a55232f27627a66a2a367fe1c4c.gif" width="100">
 </p>
 
-<p align="left">
-  <img class="gatsby-resp-image-image" src="https://64.media.tumblr.com/75ee871c3c70501014511f527b342213/74bb6bc1ad2987d5-a1/s1280x1920/ae89e529ec10b97daff14c6aa3db56e663fbe416.gifv" width="700">
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://static.wixstatic.com/media/5c1b3e_6bda1190a9c44afcafdb1d2b9072ac77~mv2.gif" width="200">
+  <img class="gatsby-resp-image-image" src="https://thumbs.gfycat.com/OldEuphoricKarakul-max-1mb.gif" width="200">
 </p>
+
+<p align="center">
+  <img class="gatsby-resp-image-image" src="https://static.wixstatic.com/media/39d8e3_b78cf95bad104bca97b127ac97e58735~mv2.gif/v1/fit/w_281,h_281,q_90/39d8e3_b78cf95bad104bca97b127ac97e58735~mv2.gif" width="300">
+</p>
+
+<p align="left">
+  <img class="gatsby-resp-image-image" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv" width="750">
+</p>
+
 
 <!--
 ## **Hi there, i am Bruno Rafael dos Santos.** 
