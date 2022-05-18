@@ -7,6 +7,7 @@
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="20">
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="10">
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="5">
+  <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="2">
 </p>
 
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
