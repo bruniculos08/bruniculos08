@@ -1,5 +1,5 @@
 ```
-void Mario(int size):
+Mario(int size):
     print("Mario", size)
     Mario(size/2)
 ```
