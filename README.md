@@ -16,6 +16,13 @@ Mario(size):
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="2">
 </p>
 
+ <div>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruniculos08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
+
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
 
 ### Important links:
