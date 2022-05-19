@@ -16,12 +16,10 @@ Mario(size):
   <img class="gatsby-resp-image-image" src="https://www.supermariobrosx.org/forums/download/file.php?avatar=12635_1495146316.gif" width="2">
 </p>
 
- <div>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruniculos08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=dark"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruniculos08&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=grey"/>
 </div>
-
 
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
 
@@ -41,6 +39,9 @@ Mario(size):
 
 
 <!--
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=bruniculos08"/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruniculos08)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img class="gatsby-resp-image-image" src="https://1b-f.s3.eu-west-1.amazonaws.com/a/175146-E22F2BDB-F534-45FC-A6F8-E1AB5233844D-0-1619119410.gif" height="300" width="900">
