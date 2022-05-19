@@ -17,8 +17,8 @@ Mario(size):
 </p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruniculos08&show_icons=true&theme=grey"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=grey"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruniculos08&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
