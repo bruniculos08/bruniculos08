@@ -23,7 +23,12 @@ Mario(size):
 
 ## **Welcome, i'm Bruno Rafael dos Santos.** 
 
-### Important links:
+### Links:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_rafasan/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bruno_rafasan)
+[![Linkedin](https://img.shields.io/badge/Linkedin-7078F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-dos-santos-6743031b7/)
+
 
 - [My Link's note](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md) 
 
