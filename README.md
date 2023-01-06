@@ -21,7 +21,7 @@ Mario(size):
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=nord"/>
 </div>
 
-## **Welcome, i'm Bruno Rafael dos Santos.** 
+## Welcome, i'm Bruno Rafael dos Santos! 🖐️ 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff7f80?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_rafasan/) 
