@@ -1,7 +1,7 @@
 ```
 Mario(size):
     print("Mario", size)
-    Mario(size/2)
+    Mario(size)
 ```
 
 
