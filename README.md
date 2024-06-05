@@ -20,7 +20,7 @@ Mario(size):
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruniculos08&layout=compact&langs_count=16&theme=nord"/>
 </div>
 
-## Welcome, I'm Bruno Rafael dos Santos! 🖐️
+## Welcome, I'm Bruno Rafael dos Santos!
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-7078F8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rafael-dos-santos-6743031b7/)
 [![Other links](https://img.shields.io/badge/other_links-006d6b?style=for-the-badge&logo=cs&logoColor=green)](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md)
