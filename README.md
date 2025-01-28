@@ -27,7 +27,7 @@ Mario(size):
 
 
 <!--
-[![Other links](https://img.shields.io/badge/other_links-006d6b?style=for-the-badge&logo=cs&logoColor=green)](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md)
+[![Other links](https://img.shields.io/badge/other_links-006d6b?style=for-the-badge&logo=cs&logoColor=green)]()
 
 - [My Link's note](https://github.com/bruniculos08/Outros/blob/93eb928f7ea6a743455dd180608e449901f9765e/Lista%20de%20Links.md) 
 
