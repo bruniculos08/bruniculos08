@@ -1,7 +1,7 @@
 ```python
-def Mario(img, size):
+def RecursiveMario(img, size):
     plot(img, size)
-    Mario(img, size - 10)
+    RecursiveMario(img, size - 10)
 ```
 
 
